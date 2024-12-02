@@ -32,3 +32,4 @@ cd mitosis-depositor
 go mod tidy
 go run main.go
 ```
+<img width="491" alt="Screenshot 2024-12-02 at 8 35 53 PM" src="https://github.com/user-attachments/assets/c1740108-9daa-4e26-a7f1-7c4469af9bc2">
