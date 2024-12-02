@@ -22,7 +22,7 @@ go version
 # Clone Repository
 
 ```
-git https://github.com/sarox0987/mitosis-depositor.git
+git clone https://github.com/sarox0987/mitosis-depositor.git
 cd mitosis-depositor
 ```
 
