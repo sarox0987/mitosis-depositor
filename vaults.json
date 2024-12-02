@@ -1,0 +1,89 @@
+[
+    {
+        "name": "vLBTC",
+        "asset": "0xd7e9c75c6c05fde929cac19bb887892de78819b7",
+        "contract": "0xb9a1a7a09b2634896b60118070b1642552ee7bd7",
+        "networks": [
+            "eth",
+            "arb",
+            "op"
+        ]
+    },
+    {
+        "name": "vETH",
+        "asset": "0x464c8ec100f2f42fb4e42e07e203da2324f9fc67",
+        "contract": "0xa064bfb5c7e81426647dc20a0d854da1538559dc",
+        "networks": [
+            "eth",
+            "arb",
+            "op",
+            "base"
+        ]
+    },
+    {
+        "name": "vUSDT",
+        "asset": "0x186cca6904490818ab0dc409ca59d932a2366031",
+        "contract": "0x298910ee67166136f08c9a302a1b49cb331d4dd8",
+        "networks": [
+            "eth"
+        ]
+    },
+    {
+        "name": "vUSDT",
+        "asset": "0xb9467b24117fd79d56f396adc3ccdb695d905ae4",
+        "contract": "0x298910ee67166136f08c9a302a1b49cb331d4dd8",
+        "networks": [
+            "arb",
+            "op"
+        ]
+    },
+    {
+        "name": "vUSDT",
+        "asset": "0xd7e9C75C6C05FdE929cAc19bb887892de78819B7",
+        "contract": "0x298910ee67166136f08c9a302a1b49cb331d4dd8",
+        "networks": [
+            "base"
+        ]
+    },
+    {
+        "name": "vUSDT",
+        "asset": "0x4faf824e5e8b8676639deb7b5cf99ecbdba0d39e",
+        "contract": "0x298910ee67166136f08c9a302a1b49cb331d4dd8",
+        "networks": [
+            "linea"
+        ]
+    },
+    {
+        "name": "vUSDe",
+        "asset": "0xa3b85123218eb4c71c7b630da9c1654a3944dfea",
+        "contract": "0x280c79fde6fa9be65348d797c9b7f300310112dc",
+        "networks": [
+            "eth"
+        ]
+    },
+    {
+        "name": "vUSDe",
+        "asset": "0xd7e9c75c6c05fde929cac19bb887892de78819b7",
+        "contract": "0x280c79fde6fa9be65348d797c9b7f300310112dc",
+        "networks": [
+            "linea"
+        ]
+    },
+    {
+        "name": "vUSDe",
+        "asset": "0x186cca6904490818ab0dc409ca59d932a2366031",
+        "contract": "0x280c79fde6fa9be65348d797c9b7f300310112dc",
+        "networks": [
+            "arb",
+            "op"
+        ]
+    },
+    {
+        "name": "vUSDe",
+        "asset": "0x28356C7B6087EebaFd1023D292eA9F5327e8F215",
+        "contract": "0x280c79fde6fa9be65348d797c9b7f300310112dc",
+        "networks": [
+            "base"
+        ]
+    }
+]
